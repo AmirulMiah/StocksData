@@ -7,14 +7,6 @@ from bs4 import BeautifulSoup
 import sqlite3
 import random
 
-#
-# Your name: Shahbab Ahmed    
-# Who you worked with: Amirul Miah
-#
-
-
-# Make sure you create an API key at alphavantage.co/support/#api-key
-# Assign that to the variable API_KEY by passing in that API key
 
 API_KEY = input("Please Enter a Valid API Key for Alpha Vantage: ")
 
